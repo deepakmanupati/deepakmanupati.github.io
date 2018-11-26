@@ -60,7 +60,7 @@ $(function() {
     /* typejs
     -------------------------------------------------------*/
     $(' .typed-element').typed({
-        strings: ["Marketing Technologist", "I help businesses get more leads and advertise online", ""],
+        strings: [ "We help businesses get more leads ", "Our business is helping your business to grow"],
         loop: true,
         startDelay: 1000,
         backDelay: 2000
